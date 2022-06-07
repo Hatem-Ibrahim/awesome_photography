@@ -8,6 +8,10 @@
     --blue: #0798BC;
     --gray: #726a6a;
 }
+section {
+    padding: 70px 0;
+}
+
 a {
     text-decoration: none;
     font-weight: bold;
